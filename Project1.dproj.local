@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.468,=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit1.pas=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit4.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2017.02.02 17:57:35.347,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit2.pas</Transaction>
-    <Transaction>2017.02.02 20:51:35.958,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit3.pas</Transaction>
-    <Transaction>2017.02.02 21:21:01.409,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit4.pas</Transaction>
-    <Transaction>2017.02.02 21:29:13.278,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Project1.dproj=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\teof1\Desktop\Настя и Лена\Салон Красоты\Unit1.dfm=C:\Users\teof1\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
