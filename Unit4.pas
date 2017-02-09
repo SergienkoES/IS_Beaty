@@ -55,17 +55,18 @@ else
   Query_Insert.SQL.Clear;
   Query_Insert.SQL.Add('INSERT INTO Мастера(Фамилия,Имя,Отчество,Код_специальности) VALUES(:FN,:LN,:MN,:KS);');
   Query_Insert.Parameters.ParamByName('FN').Value:=FirstName.Text;
-  Query_Insert.Parameters.ParamByName('FN').Value:=LastName.Text;
-  Query_Insert.Parameters.ParamByName('FN').Value:=MiddleName.Text;
-  Query_Insert.Parameters.ParamByName('FN').Value:=CB_Speciality.KeyValue;
+  Query_Insert.Parameters.ParamByName('LN').Value:=LastName.Text;
+  Query_Insert.Parameters.ParamByName('MN').Value:=MiddleName.Text;
+  Query_Insert.Parameters.ParamByName('KS').Value:=CB_Speciality.KeyValue;
   Query_Insert.ExecSQL;
   Query_Masters.Close;
   Query_Masters.Open;
-  finally
   FirstName.Text:='';
   LastName.Text:='';
   MiddleName.Text:='';
-end;
+  except
+  showmessage('Не удалось добавить сотрудника!');
+  end;
 end;
 
 procedure TMasters.FormClose(Sender: TObject; var Action: TCloseAction);

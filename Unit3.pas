@@ -63,6 +63,10 @@ if (FirstName.Text='') AND (LastName.Text='') AND (MiddleName.Text='') AND (Date
     Query_Customers.Close;
     Query_Customers.Open;
     showmessage('Клиент добавлен');
+    FirstName.Text:='';
+    LastName.Text:='';
+    MiddleName.Text:='';
+    DateBrith.Text:='';
     except
     showmessage('Не удалось добавить клиента');
     end;
